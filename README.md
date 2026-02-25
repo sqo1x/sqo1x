@@ -1,4 +1,4 @@
-[![Header](https://github.com/sqo1x/sqo1x/blob/main/outsidewindowrain...gif)]
+![Header](https://github.com/sqo1x/sqo1x/blob/main/outsidewindowrain...gif)
 
 
 ## Who am I?
